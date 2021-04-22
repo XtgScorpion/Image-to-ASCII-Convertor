@@ -1,2 +1,4 @@
-# Image-to-ASCII-Convertor
-converts and image to a grayscale text file using ascii characters
+# Convert an Image to ASCII
+This program converts an image to ASCII text.
+The image can be either locally stored, or online.
+The ASCII text will be a maximum of 300 in length/height.
